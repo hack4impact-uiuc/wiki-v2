@@ -3,6 +3,7 @@
 * [Welcome to the Hack4Impact UIUC Wiki!](README.md)
 * [Basics](basics/README.md)
   * [Who we are](basics/who-we-are.md)
+  * [Our Documentation](basics/our-documentation.md)
   * [Development Guidelines](basics/development-guidelines.md)
 * Frontend
   * [HTML & CSS](frontend/html-and-css.md)

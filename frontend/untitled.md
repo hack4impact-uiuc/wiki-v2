@@ -4,7 +4,7 @@ React is a very popular library for creating user interfaces. React is component
 
 As an example, we create a Component called Demo, where it renders a `h1` and an `OtherComponent` component.
 
-```text
+```javascript
 import OtherComponent from './'
 export default class Demo extends Component {
   state = {
