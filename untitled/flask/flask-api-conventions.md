@@ -14,7 +14,7 @@ Following the spec!
 
 #### 2\) Use the `create_response` util function
 
-```text
+```python
 # bad
 @app.route('/users', methods = ['GET'])
 def get_users():
@@ -44,7 +44,7 @@ The `create_response` abstracts away the nitty-gritty details and mechanics of s
 
 #### 3\) Follow the format of the `data` parameter in `create_response`
 
-```text
+```python
 # bad
 @app.route('/users', methods = ['GET'])
 def get_users():
@@ -65,7 +65,7 @@ Using descriptive keys provides a type checking mechanism for a client consuming
 
 #### 4\) Write your endpoint logic under the route decorator
 
-```text
+```python
 # bad
 def get_users():
     data = {
@@ -93,7 +93,7 @@ Although it's generally good practice to isolate functions for specific tasks, i
 
 #### 5\) Write the logic for only one request type per endpoint. You can create multiple endpoint declarations for the same endpoint url.
 
-```text
+```python
 # bad
 @app.route('/users', methods = ['GET', 'POST'])
 def users():
@@ -122,7 +122,7 @@ We want to have good separation of concerns to maximize code readability. When r
 
 #### 6\) Use `<model>_id` instead of just `<id>` in endpoint urls
 
-```text
+```python
 # bad
 @app.route('/users/<id>', methods = ['GET'])
 def get_user_by_id(id):
@@ -140,7 +140,7 @@ def get_user_by_id(user_id):
 
 #### 7\) Cast `id`s to `int` in the endpoint url
 
-```text
+```python
 # bad
 @app.route('/users/<user_id>', methods = ['GET'])
 def get_user_by_id(user_id):
@@ -158,7 +158,7 @@ This makes it more clear and ensures that `user_id` is always a number \(by defa
 
 #### 8\) Use constants for endpoint urls
 
-```text
+```python
 # bad
 @app.route('/users', methods = ['GET'])
 def get_users():

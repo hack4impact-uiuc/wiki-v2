@@ -23,8 +23,8 @@
     * [Flask API Conventions](untitled/flask/flask-api-conventions.md)
     * [Heroku Deployment](untitled/flask/heroku-deployment.md)
 * Setup & Installation
-  * [Windows Setup](setup-and-installation/windows-setup/README.md)
-    * [Mac Setup](setup-and-installation/windows-setup/mac-setup.md)
+  * [Windows Setup](setup-and-installation/windows-setup.md)
+  * [Mac Setup](setup-and-installation/mac-setup.md)
 * Other
   * [Python](untitled-1/python.md)
   * [Javascript](untitled-1/untitled.md)
