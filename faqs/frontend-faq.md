@@ -1,4 +1,4 @@
-# FAQs
+# Frontend FAQ
 
 ### My form isn't making an HTTP API request when it's submitted?
 

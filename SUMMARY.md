@@ -4,5 +4,7 @@
 * Basics
   * Who we are
   * Development Guidelines
-  * [FAQs](basics/faqs.md)
+* [FAQs](faqs/README.md)
+  * [Frontend FAQ](faqs/frontend-faq.md)
+  * Backend FAQ
 
