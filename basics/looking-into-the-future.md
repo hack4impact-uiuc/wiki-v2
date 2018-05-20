@@ -2,7 +2,7 @@
 
 This wiki is intended to be a live document and will be constantly updated as I have the time to do so. Some explorations we are currently doing:
 
-* [**GraphQL**](https://github.com/hack4impact-uiuc/wiki/wiki/graphql.org) - this is a relatively new Query Language open-sourced by Facebook. It rids of underfetching/overfetching of resources that happens a lot with a REST API. Other benefits of GraphQL are the ability to not have versioning, strong types, and a stable and universal specification compared to REST.
+* [**GraphQL**](https://graphql.org) - this is a relatively new Query Language open-sourced by Facebook. It rids of underfetching/overfetching of resources that happens a lot with a REST API. Other benefits of GraphQL are the ability to not have versioning, strong types, and a stable and universal specification compared to REST.
 * **Node.js** - we are using Node.js as the implementation for a GraphQL server
 * **NoSQL** - scalable and fast :\)
 

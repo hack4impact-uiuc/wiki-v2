@@ -37,7 +37,7 @@ Bad: /users?id=1
 
 Always use JSON as your response since Javascript parses it real fast. **ALL** your responses should look like this:
 
-```text
+```javascript
 {
   "code": 200, 
   "message": "", 

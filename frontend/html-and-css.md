@@ -4,15 +4,10 @@ HTML and CSS make up webpages. HTML stands for HyperText Markup Language and des
 
 ### Other Resources
 
-- \[CodeAcademy\]\(www.codeacademy.com\)
-
-- \[W3School for HTML\]\(https://www.w3schools.com/html/\) - I use this as a reference instead of a tutorial
-
-- \[W3School for CSS\]\(https://www.w3schools.com/css/\) - I use this as a reference instead of a tutorial
-
-- \[CSS Tricks\]\(https://css-tricks.com/guides/\)
-
-- \[Important CSS Properties\]\(https://zellwk.com/blog/9-important-css-properties-you-must-know/\)
-
-- **Your Browser Inspector**
+* [CodeAcademy](https://github.com/hack4impact-uiuc/wiki/wiki/www.codeacademy.com)
+* [W3School for HTML](https://www.w3schools.com/html/) - I use this as a reference instead of a tutorial
+* [W3School for CSS](https://www.w3schools.com/css/) - I use this as a reference instead of a tutorial
+* [CSS Tricks](https://css-tricks.com/guides/)
+* [Important CSS Properties](https://zellwk.com/blog/9-important-css-properties-you-must-know/)
+* **Your Browser Inspector**
 
