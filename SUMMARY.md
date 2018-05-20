@@ -5,6 +5,8 @@
   * [Who we are](basics/who-we-are.md)
   * [Our Documentation](basics/our-documentation.md)
   * [Development Guidelines](basics/development-guidelines.md)
+  * [Looking into the Future](basics/looking-into-the-future.md)
+  * [Take Home Exercises](basics/untitled.md)
 * Frontend
   * [HTML & CSS](frontend/html-and-css.md)
   * [React](frontend/untitled.md)
