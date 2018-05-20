@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to our Wiki](README.md)
-* [Basics](basics/README.md)
+* Basics
   * [Who we are](basics/who-we-are.md)
   * [Our Documentation](basics/our-documentation.md)
   * [Development Guidelines](basics/development-guidelines.md)
