@@ -10,6 +10,7 @@
 * Frontend
   * [HTML & CSS](frontend/html-and-css.md)
   * [React](frontend/untitled.md)
+  * [Common React Anti Patterns and Debugging](frontend/common-react-anti-patterns-and-debugging.md)
 * Backend
 * Setup & Installation
 * Other
