@@ -7,4 +7,8 @@
 * [FAQs](faqs/README.md)
   * [Frontend FAQ](faqs/frontend-faq.md)
   * Backend FAQ
+* Frontend
+* Backend
+* Setup & Installation
+* Other
 
