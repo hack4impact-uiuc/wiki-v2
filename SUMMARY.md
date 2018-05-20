@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the Hack4Impact UIUC Wiki!](README.md)
-* Basics
+* [Basics](basics/README.md)
   * [Who we are](basics/who-we-are.md)
   * [Development Guidelines](basics/development-guidelines.md)
 * [FAQs](faqs/README.md)
