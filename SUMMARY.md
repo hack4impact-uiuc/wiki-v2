@@ -11,6 +11,8 @@
   * [HTML & CSS](frontend/html-and-css.md)
   * [React](frontend/untitled.md)
   * [Common React Anti Patterns and Debugging](frontend/common-react-anti-patterns-and-debugging.md)
+  * [Redux](frontend/redux.md)
+  * [Let's add Redux to it!](frontend/untitled-1.md)
 * Backend
 * Setup & Installation
 * Other
