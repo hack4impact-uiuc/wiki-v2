@@ -19,6 +19,7 @@
   * [Flask](untitled/flask/README.md)
     * [Flask Boilerplate](untitled/flask/flask-boilerplate.md)
     * [Database Interactions and Troubleshooting](untitled/flask/untitled.md)
+    * [Flask API Conventions](untitled/flask/flask-api-conventions.md)
 * Setup & Installation
 * Other
 * [FAQs](faqs/README.md)
