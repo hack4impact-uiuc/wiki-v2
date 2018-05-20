@@ -14,9 +14,12 @@
   * [Redux](frontend/redux.md)
   * [Let's add Redux to it!](frontend/untitled-1.md)
 * Backend
+  * [What's a REST API](untitled/untitled.md)
+  * [Our REST API Specification](untitled/our-rest-api-specification.md)
 * Setup & Installation
 * Other
 * [FAQs](faqs/README.md)
+  * General
   * [Frontend FAQ](faqs/frontend-faq.md)
   * Backend FAQ
 
