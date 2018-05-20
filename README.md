@@ -1,10 +1,10 @@
 ---
-description: '*Currently Work in Progress - yes, i know, some links don''t work*'
+description: 'Currently Work in Progress - yes, i know, some links don''t work'
 ---
 
 # Welcome to the Hack4Impact UIUC Wiki!
 
-This is the wiki for most of the technologies we use at Hack4Impact, covering all sorts of information you will need to start developing along with some formal and explanatory documentation. You should be able to find most of your questions here. We generally use \[Flask\]\(https://github.com/hack4impact-uiuc/wiki/wiki/Flask-Intro\) to build our backend REST API service, \[Postgres\]\(\) as our persistent data store and \[\[React\]\] as our Frontend Library. If you run into problems with React, be sure to check out \[this\]\(https://github.com/hack4impact-uiuc/wiki/wiki/Common-React-Anti-Patterns-and-Debugging\) first.
+This is the wiki for most of the technologies we use at Hack4Impact, covering all sorts of information you will need to start developing along with some formal and explanatory documentation. You should be able to find most of your questions here. We generally use [Flask](https://github.com/hack4impact-uiuc/wiki/wiki/Flask-Intro) to build our backend REST API service, Postgres as our persistent data store and React as our Frontend Library. If you run into problems with React, be sure to check out \[this\]\(https://github.com/hack4impact-uiuc/wiki/wiki/Common-React-Anti-Patterns-and-Debugging\) first.
 
 ## \#\# Getting Started 
 
