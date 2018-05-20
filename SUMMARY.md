@@ -16,10 +16,12 @@
 * Backend
   * [What's a REST API?](untitled/untitled.md)
   * [Our REST API Specification](untitled/our-rest-api-specification.md)
-  * [Flask](untitled/flask/README.md)
+  * Flask
+    * [What is Flask?](untitled/flask/what-is-flask.md)
     * [Flask Boilerplate](untitled/flask/flask-boilerplate.md)
     * [Database Interactions and Troubleshooting](untitled/flask/untitled.md)
     * [Flask API Conventions](untitled/flask/flask-api-conventions.md)
+    * [Heroku Deployment](untitled/flask/heroku-deployment.md)
 * Setup & Installation
 * Other
 * [FAQs](faqs/README.md)

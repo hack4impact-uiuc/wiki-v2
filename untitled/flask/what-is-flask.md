@@ -1,4 +1,6 @@
-# Flask
+# What is Flask?
+
+
 
 Flask is a Python Microframework that we mainly use to build our Backend REST API service. It is a web framework, meant to abstract away the boring parts such as routing URLs, templating, database interactions, etc. Flask implements the bare-minimum and lets you choose the rest.
 
