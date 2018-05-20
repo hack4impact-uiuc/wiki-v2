@@ -1,5 +1,5 @@
 ---
-description: '**Currently Work in Progress - yes, i know, some links don''t work**'
+description: '*Currently Work in Progress - yes, i know, some links don''t work*'
 ---
 
 # Welcome to the Hack4Impact UIUC Wiki!
